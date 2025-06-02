@@ -1,0 +1,487 @@
+Date,Description,Debit,Credit,Sub-category,Category,Category Type,MonthName,Month Number,Week Day,Net Amount
+44200,Data With Decision,,5000,Data with Decision,Salary,Income,Jan,1,Mon,5000
+44200,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Mon,-5
+44201,Estate Mangement,900,,Rent,Living Expenses,Expense,Jan,1,Tue,-900
+44201,Financail upgrade,150,,Cash loan,Transport,Expense,Jan,1,Tue,-150
+44201,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Tue,-5
+44202,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Wed,-5
+44203,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Thu,-5
+44204,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Fri,-5
+44204,Green's,155,,Groceries,Living Expenses,Expense,Jan,1,Fri,-155
+44207,Power source,50,,Gas/Electrics,Living Expenses,Expense,Jan,1,Mon,-50
+44207,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Mon,-5
+44208,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Tue,-5
+44209,Fuel,77,,Coffee,Dining Out,Expense,Jan,1,Wed,-77
+44209,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Wed,-5
+44210,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Thu,-5
+44211,Green's,135,,Groceries,Living Expenses,Expense,Jan,1,Fri,-135
+44211,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Fri,-5
+44212,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Sat,-5
+44212,Cinemas,40,,Entertainment,Discretionary,Expense,Jan,1,Sat,-40
+44212,Fashionistas,98,,Clothes,Discretionary,Expense,Jan,1,Sat,-98
+44212,Burger,52,,Restaurant,Dining Out,Expense,Jan,1,Sat,-52
+44213,Uba,28,,Taxi,Transport,Expense,Jan,1,Sun,-28
+44214,Onlne earning,,4500,YouTube,Passive,Income,Jan,1,Mon,4500
+44214,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Mon,-5
+44215,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Tue,-5
+44215,Onlne earning,,4500,Teachable,Passive,Income,Jan,1,Tue,4500
+44215,Phone,40,,Phone,Living Expenses,Expense,Jan,1,Tue,-40
+44216,Sallah give away,45,,Gifts,Discretionary,Expense,Jan,1,Wed,-45
+44216,Online streaming,32,,Entertainment,Discretionary,Expense,Jan,1,Wed,-32
+44216,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Wed,-5
+44217,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Thu,-5
+44218,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Fri,-5
+44218,Green's,170,,Groceries,Living Expenses,Expense,Jan,1,Fri,-170
+44219,Suya,37,,Restaurant,Dining Out,Expense,Jan,1,Sat,-37
+44220,Oha soup/White soup,12,,Restaurant,Dining Out,Expense,Jan,1,Sun,-12
+44221,Orphanage,55,,Donation,Charity,Expense,Jan,1,Mon,-55
+44221,Fuel,63,,Fueling,Transport,Expense,Jan,1,Mon,-63
+44221,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Mon,-5
+44222,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Tue,-5
+44223,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Wed,-5
+44224,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Thu,-5
+44225,Drink,5,,Coffee,Dining Out,Expense,Jan,1,Fri,-5
+44225,Green's,162,,Groceries,Living Expenses,Expense,Jan,1,Fri,-162
+44226,Trainers,125,,Clothes,Discretionary,Expense,Jan,1,Sat,-125
+44226,Hangingout/Ticket,175,,Entertainment,Discretionary,Expense,Jan,1,Sat,-175
+44227,Fashionistas,145,,Clothes,Discretionary,Expense,Jan,1,Sun,-145
+44227,Uba,23,,Taxi,Transport,Expense,Jan,1,Sun,-23
+44228,Data With Decision,,5000,Data with Decision,Salary,Income,Feb,2,Mon,5000
+44228,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Mon,-5
+44229,Estate Mangement,900,,Rent,Living Expenses,Expense,Feb,2,Tue,-900
+44229,Financail upgrade,150,,Cash loan,Transport,Expense,Feb,2,Tue,-150
+44229,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Tue,-5
+44230,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Wed,-5
+44231,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Thu,-5
+44232,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Fri,-5
+44232,Green's,205,,Groceries,Living Expenses,Expense,Feb,2,Fri,-205
+44235,Power source,51.1,,Gas/Electrics,Living Expenses,Expense,Feb,2,Mon,-51.1
+44235,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Mon,-5
+44236,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Tue,-5
+44237,Fuel,78,,Fueling,Transport,Expense,Feb,2,Wed,-78
+44237,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Wed,-5
+44238,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Thu,-5
+44239,Green's,135.9,,Groceries,Living Expenses,Expense,Feb,2,Fri,-135.9
+44239,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Fri,-5
+44240,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Sat,-5
+44240,Cinemas,40.9,,Entertainment,Discretionary,Expense,Feb,2,Sat,-40.9
+44240,Fashionistas,99,,Clothes,Discretionary,Expense,Feb,2,Sat,-99
+44240,Burger,53,,Restaurant,Dining Out,Expense,Feb,2,Sat,-53
+44241,Uba,28.9,,Taxi,Transport,Expense,Feb,2,Sun,-28.9
+44242,Onlne earning,,800,YouTube,Passive,Income,Feb,2,Mon,800
+44242,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Mon,-5
+44243,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Tue,-5
+44243,Phone,40,,Phone,Living Expenses,Expense,Feb,2,Tue,-40
+44244,Sallah give away,45.9,,Gifts,Discretionary,Expense,Feb,2,Wed,-45.9
+44244,Online streaming,35,,Entertainment,Discretionary,Expense,Feb,2,Wed,-35
+44244,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Wed,-5
+44245,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Thu,-5
+44246,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Fri,-5
+44246,Green's,171,,Groceries,Living Expenses,Expense,Feb,2,Fri,-171
+44247,Suya,37.9,,Restaurant,Dining Out,Expense,Feb,2,Sat,-37.9
+44248,Oha soup/White soup,12.9,,Restaurant,Dining Out,Expense,Feb,2,Sun,-12.9
+44249,Orphanage,55,,Donation,Charity,Expense,Feb,2,Mon,-55
+44249,Fuel,64.1,,Fueling,Transport,Expense,Feb,2,Mon,-64.1
+44249,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Mon,-5
+44250,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Tue,-5
+44251,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Wed,-5
+44252,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Thu,-5
+44253,Drink,5,,Coffee,Dining Out,Expense,Feb,2,Fri,-5
+44253,Green's,162.9,,Groceries,Living Expenses,Expense,Feb,2,Fri,-162.9
+44254,Trainers,125.9,,Clothes,Discretionary,Expense,Feb,2,Sat,-125.9
+44254,Global Fashion,137,,Clothes,Discretionary,Expense,Feb,2,Sat,-137
+44255,Fashionistas,146.1,,Clothes,Discretionary,Expense,Feb,2,Sun,-146.1
+44255,Uba,24.1,,Taxi,Transport,Expense,Feb,2,Sun,-24.1
+44256,Data With Decision,,5000,Data with Decision,Salary,Income,Mar,3,Mon,5000
+44256,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Mon,-5
+44257,Estate Mangement,900,,Rent,Living Expenses,Expense,Mar,3,Tue,-900
+44257,Financail upgrade,150,,Cash loan,Transport,Expense,Mar,3,Tue,-150
+44257,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Tue,-5
+44258,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Wed,-5
+44259,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Thu,-5
+44260,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Fri,-5
+44260,Green's,149,,Groceries,Living Expenses,Expense,Mar,3,Fri,-149
+44263,Power source,52.1,,Gas/Electrics,Living Expenses,Expense,Mar,3,Mon,-52.1
+44263,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Mon,-5
+44264,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Tue,-5
+44265,Fuel,78.9,,Fueling,Transport,Expense,Mar,3,Wed,-78.9
+44265,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Wed,-5
+44266,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Thu,-5
+44267,Green's,137,,Groceries,Living Expenses,Expense,Mar,3,Fri,-137
+44267,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Fri,-5
+44268,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Sat,-5
+44268,Cinemas,41.8,,Entertainment,Discretionary,Expense,Mar,3,Sat,-41.8
+44268,Fashionistas,99.9,,Clothes,Discretionary,Expense,Mar,3,Sat,-99.9
+44268,Burger,54,,Restaurant,Dining Out,Expense,Mar,3,Sat,-54
+44269,Uba,30,,Taxi,Transport,Expense,Mar,3,Sun,-30
+44270,Onlne earning,,1000,YouTube,Passive,Income,Mar,3,Mon,1000
+44270,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Mon,-5
+44271,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Tue,-5
+44271,Taken medication,75,,Doctor,Medical,Expense,Mar,3,Tue,-75
+44271,Phone,40,,Phone,Living Expenses,Expense,Mar,3,Tue,-40
+44272,Sallah give away,46.8,,Gifts,Discretionary,Expense,Mar,3,Wed,-46.8
+44272,Online streaming,35,,Entertainment,Discretionary,Expense,Mar,3,Wed,-35
+44272,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Wed,-5
+44273,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Thu,-5
+44274,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Fri,-5
+44274,Green's,171.9,,Groceries,Living Expenses,Expense,Mar,3,Fri,-171.9
+44275,Suya,39,,Restaurant,Dining Out,Expense,Mar,3,Sat,-39
+44276,Oha soup/White soup,14,,Restaurant,Dining Out,Expense,Mar,3,Sun,-14
+44277,Orphanage,55,,Donation,Charity,Expense,Mar,3,Mon,-55
+44277,Fuel,65,,Fueling,Transport,Expense,Mar,3,Mon,-65
+44277,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Mon,-5
+44278,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Tue,-5
+44279,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Wed,-5
+44280,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Thu,-5
+44281,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Fri,-5
+44281,Green's,209,,Groceries,Living Expenses,Expense,Mar,3,Fri,-209
+44282,Trainers,127,,Clothes,Discretionary,Expense,Mar,3,Sat,-127
+44282,Sport ware,177.2,,Clothes,Discretionary,Expense,Mar,3,Sat,-177.2
+44283,Fashionistas,147.1,,Clothes,Discretionary,Expense,Mar,3,Sun,-147.1
+44283,Uba,25,,Taxi,Transport,Expense,Mar,3,Sun,-25
+44284,Foodary,15,,Restaurant,Dining Out,Expense,Mar,3,Mon,-15
+44285,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Tue,-5
+44286,Drink,5,,Coffee,Dining Out,Expense,Mar,3,Wed,-5
+44287,Data With Decision,,5000,Data with Decision,Salary,Income,Apr,4,Thu,5000
+44287,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Thu,-5
+44288,Estate Mangement,900,,Rent,Living Expenses,Expense,Apr,4,Fri,-900
+44288,Financail upgrade,150,,Cash loan,Transport,Expense,Apr,4,Fri,-150
+44288,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Fri,-5
+44289,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Sat,-5
+44290,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Sun,-5
+44291,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Mon,-5
+44291,Green's,158.2,,Groceries,Living Expenses,Expense,Apr,4,Mon,-158.2
+44294,Power source,53.2,,Gas/Electrics,Living Expenses,Expense,Apr,4,Thu,-53.2
+44294,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Thu,-5
+44295,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Fri,-5
+44296,Fuel,79.9,,Fueling,Transport,Expense,Apr,4,Sat,-79.9
+44296,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Sat,-5
+44297,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Sun,-5
+44298,Green's,98,,Groceries,Living Expenses,Expense,Apr,4,Mon,-98
+44298,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Mon,-5
+44299,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Tue,-5
+44299,Cinemas,42.8,,Entertainment,Discretionary,Expense,Apr,4,Tue,-42.8
+44299,Fashionistas,100.9,,Clothes,Discretionary,Expense,Apr,4,Tue,-100.9
+44299,Burger,54.9,,Restaurant,Dining Out,Expense,Apr,4,Tue,-54.9
+44300,Uba,31,,Taxi,Transport,Expense,Apr,4,Wed,-31
+44301,Onlne earning,,2340,YouTube,Passive,Income,Apr,4,Thu,2340
+44301,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Thu,-5
+44302,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Fri,-5
+44302,Phone,40,,Phone,Living Expenses,Expense,Apr,4,Fri,-40
+44303,Sallah give away,47.9,,Gifts,Discretionary,Expense,Apr,4,Sat,-47.9
+44303,Online streaming,35,,Entertainment,Discretionary,Expense,Apr,4,Sat,-35
+44303,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Sat,-5
+44304,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Sun,-5
+44305,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Mon,-5
+44305,Green's,173,,Groceries,Living Expenses,Expense,Apr,4,Mon,-173
+44306,Suya,40.1,,Restaurant,Dining Out,Expense,Apr,4,Tue,-40.1
+44307,Oha soup/White soup,15.1,,Restaurant,Dining Out,Expense,Apr,4,Wed,-15.1
+44308,Orphanage,55,,Donation,Charity,Expense,Apr,4,Thu,-55
+44308,Fuel,66,,Fueling,Transport,Expense,Apr,4,Thu,-66
+44308,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Thu,-5
+44309,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Fri,-5
+44310,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Sat,-5
+44311,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Sun,-5
+44312,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Mon,-5
+44312,Green's,164.9,,Groceries,Living Expenses,Expense,Apr,4,Mon,-164.9
+44313,Trainers,127.9,,Clothes,Discretionary,Expense,Apr,4,Tue,-127.9
+44313,Clubing,300,,Entertainment,Discretionary,Expense,Apr,4,Tue,-300
+44314,Fashionistas,148.1,,Clothes,Discretionary,Expense,Apr,4,Wed,-148.1
+44314,Uba,26.1,,Taxi,Transport,Expense,Apr,4,Wed,-26.1
+44315,Foodary,15,,Restaurant,Dining Out,Expense,Apr,4,Thu,-15
+44315,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Thu,-5
+44316,Drink,5,,Coffee,Dining Out,Expense,Apr,4,Fri,-5
+44318,Drink,5,,Coffee,Dining Out,Expense,May,5,Sun,-5
+44319,Data With Decision,,5000,Data with Decision,Salary,Income,May,5,Mon,5000
+44319,Estate Mangement,900,,Rent,Living Expenses,Expense,May,5,Mon,-900
+44319,Financail upgrade,150,,Cash loan,Transport,Expense,May,5,Mon,-150
+44319,Drink,5,,Coffee,Dining Out,Expense,May,5,Mon,-5
+44320,Drink,5,,Coffee,Dining Out,Expense,May,5,Tue,-5
+44321,Drink,5,,Coffee,Dining Out,Expense,May,5,Wed,-5
+44322,Drink,5,,Coffee,Dining Out,Expense,May,5,Thu,-5
+44322,Green's,170,,Groceries,Living Expenses,Expense,May,5,Thu,-170
+44325,Power source,54.1,,Gas/Electrics,Living Expenses,Expense,May,5,Sun,-54.1
+44325,Drink,5,,Coffee,Dining Out,Expense,May,5,Sun,-5
+44326,Drink,5,,Coffee,Dining Out,Expense,May,5,Mon,-5
+44327,Fuel,81,,Fueling,Transport,Expense,May,5,Tue,-81
+44327,Drink,5,,Coffee,Dining Out,Expense,May,5,Tue,-5
+44328,Drink,5,,Coffee,Dining Out,Expense,May,5,Wed,-5
+44329,Green's,139.1,,Groceries,Living Expenses,Expense,May,5,Thu,-139.1
+44329,Drink,5,,Coffee,Dining Out,Expense,May,5,Thu,-5
+44330,Drink,5,,Coffee,Dining Out,Expense,May,5,Fri,-5
+44330,Cinemas,43.9,,Entertainment,Discretionary,Expense,May,5,Fri,-43.9
+44330,Fashionistas,101.8,,Clothes,Discretionary,Expense,May,5,Fri,-101.8
+44330,Burger,55.9,,Restaurant,Dining Out,Expense,May,5,Fri,-55.9
+44331,Uba,32,,Taxi,Transport,Expense,May,5,Sat,-32
+44332,Onlne earning,,1000,YouTube,Passive,Income,May,5,Sun,1000
+44332,Drink,5,,Coffee,Dining Out,Expense,May,5,Sun,-5
+44333,Drink,5,,Coffee,Dining Out,Expense,May,5,Mon,-5
+44333,Taken medication,75,,Doctor,Medical,Expense,May,5,Mon,-75
+44333,Phone,40,,Phone,Living Expenses,Expense,May,5,Mon,-40
+44334,Sallah give away,49,,Gifts,Discretionary,Expense,May,5,Tue,-49
+44334,Online streaming,35,,Entertainment,Discretionary,Expense,May,5,Tue,-35
+44334,Drink,5,,Coffee,Dining Out,Expense,May,5,Tue,-5
+44335,Drink,5,,Coffee,Dining Out,Expense,May,5,Wed,-5
+44336,Drink,5,,Coffee,Dining Out,Expense,May,5,Thu,-5
+44336,Green's,174,,Groceries,Living Expenses,Expense,May,5,Thu,-174
+44337,Suya,41.1,,Restaurant,Dining Out,Expense,May,5,Fri,-41.1
+44338,Oha soup/White soup,16.2,,Restaurant,Dining Out,Expense,May,5,Sat,-16.2
+44339,Orphanage,55,,Donation,Charity,Expense,May,5,Sun,-55
+44339,Fuel,67,,Fueling,Transport,Expense,May,5,Sun,-67
+44339,Drink,5,,Coffee,Dining Out,Expense,May,5,Sun,-5
+44340,Drink,5,,Coffee,Dining Out,Expense,May,5,Mon,-5
+44341,Drink,5,,Coffee,Dining Out,Expense,May,5,Tue,-5
+44342,Drink,5,,Coffee,Dining Out,Expense,May,5,Wed,-5
+44343,Drink,5,,Coffee,Dining Out,Expense,May,5,Thu,-5
+44343,Green's,165.8,,Groceries,Living Expenses,Expense,May,5,Thu,-165.8
+44344,Trainers,128.8,,Clothes,Discretionary,Expense,May,5,Fri,-128.8
+44344,Home décor,235,,Furnishings,Discretionary,Expense,May,5,Fri,-235
+44345,Fashionistas,149.2,,Clothes,Discretionary,Expense,May,5,Sat,-149.2
+44345,Uba,27.2,,Taxi,Transport,Expense,May,5,Sat,-27.2
+44347,Foodary,15,,Restaurant,Dining Out,Expense,May,5,Mon,-15
+44346,Drink,5,,Coffee,Dining Out,Expense,May,5,Sun,-5
+44347,Drink,5,,Coffee,Dining Out,Expense,May,5,Mon,-5
+44348,Data With Decision,,5000,Data with Decision,Salary,Income,Jun,6,Tue,5000
+44350,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Thu,-5
+44350,Estate Mangement,900,,Rent,Living Expenses,Expense,Jun,6,Thu,-900
+44350,Financail upgrade,150,,Cash loan,Transport,Expense,Jun,6,Thu,-150
+44350,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Thu,-5
+44351,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Fri,-5
+44352,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Sat,-5
+44353,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Sun,-5
+44353,Green's,119,,Groceries,Living Expenses,Expense,Jun,6,Sun,-119
+44356,Power source,55,,Gas/Electrics,Living Expenses,Expense,Jun,6,Wed,-55
+44356,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Wed,-5
+44357,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Thu,-5
+44358,Fuel,82.1,,Fueling,Transport,Expense,Jun,6,Fri,-82.1
+44358,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Fri,-5
+44359,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Sat,-5
+44360,Green's,140.2,,Groceries,Living Expenses,Expense,Jun,6,Sun,-140.2
+44360,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Sun,-5
+44361,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Mon,-5
+44361,Cinemas,44.9,,Entertainment,Discretionary,Expense,Jun,6,Mon,-44.9
+44361,Fashionistas,102.9,,Clothes,Discretionary,Expense,Jun,6,Mon,-102.9
+44361,Burger,56.9,,Restaurant,Dining Out,Expense,Jun,6,Mon,-56.9
+44362,Uba,33.1,,Taxi,Transport,Expense,Jun,6,Tue,-33.1
+44363,Onlne earning,,100,YouTube,Passive,Income,Jun,6,Wed,100
+44363,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Wed,-5
+44364,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Thu,-5
+44364,Phone,40,,Phone,Living Expenses,Expense,Jun,6,Thu,-40
+44365,Sallah give away,50.1,,Gifts,Discretionary,Expense,Jun,6,Fri,-50.1
+44365,Online streaming,35,,Entertainment,Discretionary,Expense,Jun,6,Fri,-35
+44365,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Fri,-5
+44366,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Sat,-5
+44367,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Sun,-5
+44367,Green's,234,,Groceries,Living Expenses,Expense,Jun,6,Sun,-234
+44368,Suya,42.1,,Restaurant,Dining Out,Expense,Jun,6,Mon,-42.1
+44369,Oha soup/White soup,17.1,,Restaurant,Dining Out,Expense,Jun,6,Tue,-17.1
+44370,Orphanage,55,,Donation,Charity,Expense,Jun,6,Wed,-55
+44370,Fuel,67.9,,Fueling,Transport,Expense,Jun,6,Wed,-67.9
+44370,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Wed,-5
+44371,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Thu,-5
+44372,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Fri,-5
+44373,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Sat,-5
+44374,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Sun,-5
+44374,Green's,166.9,,Groceries,Living Expenses,Expense,Jun,6,Sun,-166.9
+44375,Trainers,129.9,,Clothes,Discretionary,Expense,Jun,6,Mon,-129.9
+44375,Hangingout/Ticket,180.3,,Entertainment,Discretionary,Expense,Jun,6,Mon,-180.3
+44376,Fashionistas,150.1,,Clothes,Discretionary,Expense,Jun,6,Tue,-150.1
+44376,Uba,28.2,,Taxi,Transport,Expense,Jun,6,Tue,-28.2
+44376,Foodary,15,,Restaurant,Dining Out,Expense,Jun,6,Tue,-15
+44377,Drink,5,,Coffee,Dining Out,Expense,Jun,6,Wed,-5
+44378,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Thu,-5
+44379,Data With Decision,,5000,Data with Decision,Salary,Income,Jul,7,Fri,5000
+44380,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Sat,-5
+44382,Estate Mangement,900,,Rent,Living Expenses,Expense,Jul,7,Mon,-900
+44382,Financail upgrade,150,,Cash loan,Transport,Expense,Jul,7,Mon,-150
+44382,Feedings,15,,Restaurant,Dining Out,Expense,Jul,7,Mon,-15
+44382,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Mon,-5
+44383,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Tue,-5
+44384,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Wed,-5
+44384,Green's,180,,Groceries,Living Expenses,Expense,Jul,7,Wed,-180
+44387,Power source,56.1,,Gas/Electrics,Living Expenses,Expense,Jul,7,Sat,-56.1
+44387,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Sat,-5
+44388,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Sun,-5
+44389,Fuel,83.1,,Fueling,Transport,Expense,Jul,7,Mon,-83.1
+44389,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Mon,-5
+44390,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Tue,-5
+44391,Green's,141.1,,Groceries,Living Expenses,Expense,Jul,7,Wed,-141.1
+44391,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Wed,-5
+44392,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Thu,-5
+44392,Cinemas,45.8,,Entertainment,Discretionary,Expense,Jul,7,Thu,-45.8
+44392,Fashionistas,103.8,,Clothes,Discretionary,Expense,Jul,7,Thu,-103.8
+44392,Burger,58,,Restaurant,Dining Out,Expense,Jul,7,Thu,-58
+44393,Uba,34.2,,Taxi,Transport,Expense,Jul,7,Fri,-34.2
+44394,Onlne earning,,200,YouTube,Passive,Income,Jul,7,Sat,200
+44394,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Sat,-5
+44395,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Sun,-5
+44395,Phone,40,,Phone,Living Expenses,Expense,Jul,7,Sun,-40
+44396,Sallah give away,51.1,,Gifts,Discretionary,Expense,Jul,7,Mon,-51.1
+44396,Online streaming,35,,Entertainment,Discretionary,Expense,Jul,7,Mon,-35
+44396,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Mon,-5
+44397,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Tue,-5
+44398,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Wed,-5
+44398,Green's,176,,Groceries,Living Expenses,Expense,Jul,7,Wed,-176
+44399,Suya,43.1,,Restaurant,Dining Out,Expense,Jul,7,Thu,-43.1
+44400,Oha soup/White soup,18.2,,Restaurant,Dining Out,Expense,Jul,7,Fri,-18.2
+44401,Orphanage,55,,Donation,Charity,Expense,Jul,7,Sat,-55
+44401,Fuel,68.8,,Fueling,Transport,Expense,Jul,7,Sat,-68.8
+44401,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Sat,-5
+44402,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Sun,-5
+44403,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Mon,-5
+44404,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Tue,-5
+44405,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Wed,-5
+44405,Green's,193,,Groceries,Living Expenses,Expense,Jul,7,Wed,-193
+44406,Trainers,130.8,,Clothes,Discretionary,Expense,Jul,7,Thu,-130.8
+44406,Home décor,181.4,,Furnishings,Discretionary,Expense,Jul,7,Thu,-181.4
+44407,Fashionistas,151.2,,Clothes,Discretionary,Expense,Jul,7,Fri,-151.2
+44407,Uba,29.3,,Taxi,Transport,Expense,Jul,7,Fri,-29.3
+44407,Foodary,15,,Restaurant,Dining Out,Expense,Jul,7,Fri,-15
+44408,Drink,5,,Coffee,Dining Out,Expense,Jul,7,Sat,-5
+44410,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Mon,-5
+44410,Data With Decision,,5000,Data with Decision,Salary,Income,Aug,8,Mon,5000
+44411,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Tue,-5
+44413,Estate Mangement,900,,Rent,Living Expenses,Expense,Aug,8,Thu,-900
+44413,Financail upgrade,150,,Cash loan,Transport,Expense,Aug,8,Thu,-150
+44413,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Thu,-5
+44413,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Thu,-5
+44414,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Fri,-5
+44415,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Sat,-5
+44415,Green's,137,,Groceries,Living Expenses,Expense,Aug,8,Sat,-137
+44418,Power source,57,,Gas/Electrics,Living Expenses,Expense,Aug,8,Tue,-57
+44418,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Tue,-5
+44419,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Wed,-5
+44420,Fuel,84.2,,Fueling,Transport,Expense,Aug,8,Thu,-84.2
+44420,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Thu,-5
+44421,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Fri,-5
+44422,Green's,142.1,,Groceries,Living Expenses,Expense,Aug,8,Sat,-142.1
+44422,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Sat,-5
+44423,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Sun,-5
+44423,Cinemas,46.8,,Entertainment,Discretionary,Expense,Aug,8,Sun,-46.8
+44423,Fashionistas,104.7,,Clothes,Discretionary,Expense,Aug,8,Sun,-104.7
+44423,Burger,59.1,,Restaurant,Dining Out,Expense,Aug,8,Sun,-59.1
+44424,Uba,35.1,,Taxi,Transport,Expense,Aug,8,Mon,-35.1
+44425,Onlne earning,,800,YouTube,Passive,Income,Aug,8,Tue,800
+44425,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Tue,-5
+44426,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Wed,-5
+44426,Phone,40,,Phone,Living Expenses,Expense,Aug,8,Wed,-40
+44427,Sallah give away,52.1,,Gifts,Discretionary,Expense,Aug,8,Thu,-52.1
+44427,Online streaming,35,,Entertainment,Discretionary,Expense,Aug,8,Thu,-35
+44427,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Thu,-5
+44428,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Fri,-5
+44429,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Sat,-5
+44429,Green's,177,,Groceries,Living Expenses,Expense,Aug,8,Sat,-177
+44430,Suya,44.2,,Restaurant,Dining Out,Expense,Aug,8,Sun,-44.2
+44431,Oha soup/White soup,19.2,,Restaurant,Dining Out,Expense,Aug,8,Mon,-19.2
+44432,Orphanage,55,,Donation,Charity,Expense,Aug,8,Tue,-55
+44432,Fuel,69.7,,Fueling,Transport,Expense,Aug,8,Tue,-69.7
+44432,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Tue,-5
+44433,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Wed,-5
+44434,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Thu,-5
+44435,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Fri,-5
+44436,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Sat,-5
+44436,Green's,117,,Groceries,Living Expenses,Expense,Aug,8,Sat,-117
+44437,Trainers,131.9,,Clothes,Discretionary,Expense,Aug,8,Sun,-131.9
+44437,Hangingout/Ticket,182.4,,Entertainment,Discretionary,Expense,Aug,8,Sun,-182.4
+44438,Fashionistas,152.3,,Clothes,Discretionary,Expense,Aug,8,Mon,-152.3
+44438,Uba,30.3,,Taxi,Transport,Expense,Aug,8,Mon,-30.3
+44438,Foodary,15,,Restaurant,Dining Out,Expense,Aug,8,Mon,-15
+44439,Drink,5,,Coffee,Dining Out,Expense,Aug,8,Tue,-5
+44441,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Thu,-5
+44441,Data With Decision,,5000,Data with Decision,Salary,Income,Sep,9,Thu,5000
+44442,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Fri,-5
+44444,Estate Mangement,900,,Rent,Living Expenses,Expense,Sep,9,Sun,-900
+44444,Financail upgrade,150,,Cash loan,Transport,Expense,Sep,9,Sun,-150
+44444,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Sun,-5
+44444,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Sun,-5
+44445,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Mon,-5
+44446,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Tue,-5
+44446,Green's,163.4,,Groceries,Living Expenses,Expense,Sep,9,Tue,-163.4
+44449,Power source,58.1,,Gas/Electrics,Living Expenses,Expense,Sep,9,Fri,-58.1
+44449,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Fri,-5
+44450,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Sat,-5
+44451,Fuel,85.3,,Fueling,Transport,Expense,Sep,9,Sun,-85.3
+44451,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Sun,-5
+44452,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Mon,-5
+44453,Green's,143,,Groceries,Living Expenses,Expense,Sep,9,Tue,-143
+44453,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Tue,-5
+44454,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Wed,-5
+44454,Cinemas,47.8,,Entertainment,Discretionary,Expense,Sep,9,Wed,-47.8
+44454,Fashionistas,105.8,,Clothes,Discretionary,Expense,Sep,9,Wed,-105.8
+44454,Burger,60.1,,Restaurant,Dining Out,Expense,Sep,9,Wed,-60.1
+44455,Uba,36.2,,Taxi,Transport,Expense,Sep,9,Thu,-36.2
+44456,Onlne earning,,100,YouTube,Passive,Income,Sep,9,Fri,100
+44456,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Fri,-5
+44457,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Sat,-5
+44457,Phone,40,,Phone,Living Expenses,Expense,Sep,9,Sat,-40
+44458,Sallah give away,53,,Gifts,Discretionary,Expense,Sep,9,Sun,-53
+44458,Online streaming,35,,Entertainment,Discretionary,Expense,Sep,9,Sun,-35
+44458,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Sun,-5
+44459,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Mon,-5
+44460,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Tue,-5
+44460,Green's,177.9,,Groceries,Living Expenses,Expense,Sep,9,Tue,-177.9
+44461,Suya,45.3,,Restaurant,Dining Out,Expense,Sep,9,Wed,-45.3
+44462,Oha soup/White soup,20.1,,Restaurant,Dining Out,Expense,Sep,9,Thu,-20.1
+44463,Orphanage,55,,Donation,Charity,Expense,Sep,9,Fri,-55
+44463,Fuel,70.6,,Fueling,Transport,Expense,Sep,9,Fri,-70.6
+44463,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Fri,-5
+44464,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Sat,-5
+44465,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Sun,-5
+44466,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Mon,-5
+44467,Drink,5,,Coffee,Dining Out,Expense,Sep,9,Tue,-5
+44467,Green's,223,,Groceries,Living Expenses,Expense,Sep,9,Tue,-223
+44468,Trainers,132.9,,Clothes,Discretionary,Expense,Sep,9,Wed,-132.9
+44468,Global Fashion,175,,Clothes,Discretionary,Expense,Sep,9,Wed,-175
+44469,Fashionistas,153.4,,Clothes,Discretionary,Expense,Sep,9,Thu,-153.4
+44469,Uba,31.2,,Taxi,Transport,Expense,Sep,9,Thu,-31.2
+44469,Foodary,15,,Restaurant,Dining Out,Expense,Sep,9,Thu,-15
+44470,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Fri,-5
+44472,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Sun,-5
+44472,Data With Decision,,5000,Data with Decision,Salary,Income,Oct,10,Sun,5000
+44473,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Mon,-5
+44475,Estate Mangement,900,,Rent,Living Expenses,Expense,Oct,10,Wed,-900
+44475,Financail upgrade,150,,Cash loan,Transport,Expense,Oct,10,Wed,-150
+44475,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Wed,-5
+44475,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Wed,-5
+44476,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Thu,-5
+44477,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Fri,-5
+44477,Green's,105,,Groceries,Living Expenses,Expense,Oct,10,Fri,-105
+44480,Power source,59,,Gas/Electrics,Living Expenses,Expense,Oct,10,Mon,-59
+44480,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Mon,-5
+44481,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Tue,-5
+44482,Fuel,86.4,,Fueling,Transport,Expense,Oct,10,Wed,-86.4
+44482,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Wed,-5
+44483,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Thu,-5
+44484,Green's,143.9,,Groceries,Living Expenses,Expense,Oct,10,Fri,-143.9
+44484,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Fri,-5
+44485,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Sat,-5
+44485,Cinemas,48.8,,Entertainment,Discretionary,Expense,Oct,10,Sat,-48.8
+44485,Fashionistas,106.7,,Clothes,Discretionary,Expense,Oct,10,Sat,-106.7
+44485,Burger,61.1,,Restaurant,Dining Out,Expense,Oct,10,Sat,-61.1
+44486,Uba,37.2,,Taxi,Transport,Expense,Oct,10,Sun,-37.2
+44487,Onlne earning,,100,YouTube,Passive,Income,Oct,10,Mon,100
+44487,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Mon,-5
+44488,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Tue,-5
+44488,Taken medication,75,,Doctor,Medical,Expense,Oct,10,Tue,-75
+44488,Phone,40,,Phone,Living Expenses,Expense,Oct,10,Tue,-40
+44489,Sallah give away,54.1,,Gifts,Discretionary,Expense,Oct,10,Wed,-54.1
+44489,Online streaming,35,,Entertainment,Discretionary,Expense,Oct,10,Wed,-35
+44489,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Wed,-5
+44490,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Thu,-5
+44491,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Fri,-5
+44491,Green's,178.9,,Groceries,Living Expenses,Expense,Oct,10,Fri,-178.9
+44492,Suya,46.2,,Restaurant,Dining Out,Expense,Oct,10,Sat,-46.2
+44493,Oha soup/White soup,21.1,,Restaurant,Dining Out,Expense,Oct,10,Sun,-21.1
+44494,Orphanage,55,,Donation,Charity,Expense,Oct,10,Mon,-55
+44494,Fuel,71.5,,Fueling,Transport,Expense,Oct,10,Mon,-71.5
+44494,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Mon,-5
+44495,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Tue,-5
+44496,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Wed,-5
+44497,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Thu,-5
+44498,Drink,5,,Coffee,Dining Out,Expense,Oct,10,Fri,-5
+44498,Green's,189,,Groceries,Living Expenses,Expense,Oct,10,Fri,-189
+44499,Trainers,133.8,,Clothes,Discretionary,Expense,Oct,10,Sat,-133.8
+44499,Hangingout/Ticket,184.4,,Entertainment,Discretionary,Expense,Oct,10,Sat,-184.4
+44500,Fashionistas,154.5,,Clothes,Discretionary,Expense,Oct,10,Sun,-154.5
+44500,Uba,32.1,,Taxi,Transport,Expense,Oct,10,Sun,-32.1
+44500,Foodary,15,,Restaurant,Dining Out,Expense,Oct,10,Sun,-15
