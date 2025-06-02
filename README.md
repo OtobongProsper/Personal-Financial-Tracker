@@ -45,10 +45,15 @@ Monthly savings/Monthly income * 100
 
 ## Recommendations
 Base on the analysis, the following are recommended:
+
  ☑️Reduce discretionary spending by 12% to boost savings
+ 
  ☑️Shift unused cash flow into higher-return investment, this could boosts daily income
+ 
  ☑️Adopt saving rate model (Saving/Income * 100), monthly saving rate of about 60% is recommended.
+
  ☑️Embrace multiple sources of income, this could boosts monthly saving rate to 70%
+ 
  ☑️Ensured standard and high content quality as well as consistency
 
 
